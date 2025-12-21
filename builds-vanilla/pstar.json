@@ -19,8 +19,8 @@
       "github": "Rondeau79",
       "sourceforge": "Rondeau97",
       "initial_installation_images": [
-      "boot"
-      "dtbo"
+      "boot",
+      "dtbo",
       "vendor_boot"
       ]
     }
