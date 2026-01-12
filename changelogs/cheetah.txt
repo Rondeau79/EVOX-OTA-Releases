@@ -1,0 +1,7 @@
+QPR0
+Initial A16 build
+January SPL
+ViPER4AndroidFX v8 shipped
+Signed with A16 keys
+EvoX version 11.4.3
+Kernel version 6.1.124-android14-11
