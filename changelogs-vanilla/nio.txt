@@ -1,4 +1,4 @@
-QPR1 Release
+QPR2 Release
 January SPL
 Viper4Android v8.0 redesign shipped
 Bump to EvoX version 11.6
