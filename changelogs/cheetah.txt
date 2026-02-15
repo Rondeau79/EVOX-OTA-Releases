@@ -1,6 +1,6 @@
 QPR2
 February SPL
-ViPER4AndroidFX v8 shipped
+ViPER4AndroidFX v8 shipped(driver fixed)
 Signed with A16 keys
 EvoX version 11.6.1
 Kernel version 6.1.124-android14-11
