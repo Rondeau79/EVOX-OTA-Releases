@@ -7,3 +7,4 @@ Signed with updated A16 keys
 Bump to kernel version 4.19.325-cip127-st11-perf-g752059156b40
 Pixel Parts apk now shipped
 Dolby Atmos now included 
+MotoCam included
