@@ -5,12 +5,12 @@
       "currently_maintained": true,
       "oem": "Motorola",
       "device": "Moto Edge 20 Pro",
-      "filename": "EvolutionX-16.0-20260429-pstar-11.7-Vanilla-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/crdroid-v7-x-sofiar/files/Pstar/A16/A16_Vanilla/EvolutionX-16.0-20260429-pstar-11.7-Vanilla-Unofficial.zip/download"
-      "timestamp": 1777509597,
-      "md5": "68192089159564bb4d82b54e22cb7928",
-      "sha256": "5af258fc54595f9439fbb287ca8a8c7579a9bd548925f66e0a7803398ee87fac",
-      "size": 1465775483,
+      "filename": "EvolutionX-16.0-20260507-pstar-11.7-Vanilla-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/crdroid-v7-x-sofiar/files/Pstar/A16/A16_Vanilla/EvolutionX-16.0-20260507-pstar-11.7-Vanilla-Unofficial.zip/download"
+      "timestamp": 1778188463,
+      "md5": "4caceedd103480d2cf84da6284a0e12d",
+      "sha256": "e2ebe945e50f672b57ab054ef56d404decfb8297162614be9c28acec3ef6dd37",
+      "size": 1447775077,
       "version": "11.7",
       "buildtype": "user",
       "forum": "https://xdaforums.com/t/rom-16-0-evolution-x-11-3-10-08-2025-ota.4687297/",
