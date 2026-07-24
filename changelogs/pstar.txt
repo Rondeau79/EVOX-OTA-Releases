@@ -1,8 +1,8 @@
-QPR2 Release
-June SPL
+CP2A Build Release
+July SPL
 Viper4Android v8.0 redesign shipped
-Bump to EvoX version 11.8
+Bump to EvoX version 12.0
 MotoCam3 v9.0.12.67 shipped
-Signed with updated A16 keys
-Bump to kernel version 4.19.325-cip133-st17-perf-gc7def5d029b0
+Signed with updated A17 keys
+Bump to kernel version: 4.19.325-cip134-st18-perf-ge5e04d270edd
 Dolby Atmos now shipped
