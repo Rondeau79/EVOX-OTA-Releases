@@ -1,10 +1,6 @@
-QPR2
-June SPL
+CP2A Android 17 build
+August SPL
 ViPER4AndroidFX v8 shipped
-Signed with updated A16 keys
-EvoX version 11.8
-Kernel version 6.1.124-android14-11
-Update system UI
-Re enabled UDFP Icons
-Re endabled UDFP animatations
-PIF ROM side enahncements built in
+Signed with updated A17 keys
+EvoX version 12.0
+Kernel version 6.1.145-android14-11
