@@ -1,6 +1,6 @@
 CP2A Android 17 build
-August SPL
+September SPL
 ViPER4AndroidFX v8 shipped
 Signed with updated A17 keys
-EvoX version 12.0
-Kernel version 6.1.145-android14-11
+EvoX version 12.2
+Kernel version 6.1.157-android14-11-gb3d4cdadf339-ab16160610
