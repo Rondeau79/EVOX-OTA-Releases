@@ -4,3 +4,4 @@ ViPER4AndroidFX v8 shipped
 Signed with updated A17 keys
 EvoX version 12.2
 Kernel version 6.1.157-android14-11-gb3d4cdadf339-ab16160610
+Source synced to latest update
