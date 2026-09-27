@@ -6,3 +6,4 @@ MotoCam3 v9.0.12.67 shipped
 Signed with updated A17 keys
 Bump to kernel version: 4.19.325-cip135-st19-perf-g217104287199
 Dolby Atmos now shipped
+Source synced to latest update
