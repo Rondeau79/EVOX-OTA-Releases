@@ -1,4 +1,4 @@
-CP3A Build Release
+CP2A Build Release
 November SPL
 Viper4Android v8.0 redesign shipped
 Bump to EvoX version 12.4
